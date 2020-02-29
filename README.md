@@ -7,7 +7,6 @@ It is build by using MERN Stack.
 
 - Online site: https://node-react-blog-app.herokuapp.com
 - Trello Card: https://trello.com/c/G3DptVUi
-- Video on Google Drive: https://drive.google.com/file/d/1NW5ZSnCnYhEQ7VTMLAB43nh_aCgInM59/view?usp=sharing
 
 ## About the ReactJS part:
 
